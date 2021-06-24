@@ -18,7 +18,7 @@ IDE
 
 Contact
 - Discord: PharaJP#1912
-- Instagram: @vicho_awadeuwu[https://www.instagram.com/vicho_awadeuwu]
+- Instagram: @vicho_awadeuwu
 
 How to use?
 - First, open a console terminal in the root directory of the proyect
