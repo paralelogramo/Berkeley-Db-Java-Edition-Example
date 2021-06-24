@@ -22,5 +22,5 @@ Contact
 
 How to use?
 - First, open a console terminal in the root directory of the proyect
-- Then, run the command *'java -jar dbgen X'*, where 'X' is the number of generations, i recomend 5
+- Then, run the command *'java -jar dbgen X'*, where 'X' is the number of generations, i recommend 5
 - Finally, just open the project with NetBeans or the favorite IDE and run.
